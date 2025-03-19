@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StaffMember>
+  <Staff>
+    <username>TA</username>
+    <password>443d65a14327cdb6f12ff95352d99baca8b06e40ba57d7d60b898d724bbb0f23</password>
+  </Staff>
+  <Staff>
+    <username>abarot1</username>
+    <password>03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4</password>
+  </Staff>
+  <Staff>
+    <username>sdesai36</username>
+    <password>03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4</password>
+  </Staff>
+  <Staff>
+    <username>SD</username>
+    <password>f2afd1cacb5441a5e65a7a460a5f9898b7b98b08aa6323a2e53c8b9a9686cd86</password>
+  </Staff>
+</StaffMember>
